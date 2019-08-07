@@ -93,3 +93,30 @@ https://www.pling.com/p/1284047
   ```
   sudo snap install pycharm-professional --classic
   ```
+
+
+# Runing windows apps on linux
+
+* **install wine**
+  ```
+  sudo apt update
+  sudo apt install wine
+  ```
+  to add 32-bit support in the distro
+  ```
+  sudo dpkg --add-architecture i386
+  ```
+  **Getting Started with Wine**
+  ```
+  winecfg
+  $HOME/.wine/c_drive
+  ```
+
+* **PlayOnLinux**
+  ```
+  sudo apt install playonlinux
+  ```
+
+Additional Information on wine
+[How to use windows app on linux](https://itsfoss.com/use-windows-applications-linux/)
+
