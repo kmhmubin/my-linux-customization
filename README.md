@@ -31,6 +31,15 @@ The things I need to do after install ubuntu
   ```
   sudo apt install chrome-gnome-shell
   ```
+  ##Installing dconf-editor
+  ```
+  sudo apt install dconf-editor
+  ```
+  ##Install synaptic package manager
+  search and istall from app store
+  
+  
+  
 ## Installing themes 
 
 * using ppa and install pop theme
